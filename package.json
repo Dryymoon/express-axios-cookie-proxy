@@ -1,0 +1,16 @@
+{
+  "name": "express-axios-cookie-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Pilipenko Igor",
+  "license": "ISC",
+  "peerDependencies": {
+    "express": "*",
+    "axios": "*"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "set-cookie-parser": "^2.4.6"
+  }
+}
